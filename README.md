@@ -1,2 +1,5 @@
-# latex-utp-slides
-Template para dispositivas de la utp
+# 📑 Template slides UTP 🛠️
+
+Template de dispositivas de la UTP como: tareas, laboratorios, investigaciones o asignaciones.
+
+## 🗂️ Estructura de archivos
